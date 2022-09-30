@@ -1,6 +1,16 @@
 # IITG Developers
+Team Members:
+
+Damera Ashan Raj
+
+Siripuram Gandhi
+
+Dhanavath Balaji
+
 Django based website that acts as a channel for developers and community, where a developer can
 post projects, get reviews and also interact one-one with others.
+
+
 ![image](https://user-images.githubusercontent.com/83868114/190485354-b01fae8d-b55c-4fd5-8b45-1c881f94c0e2.png)
 
 ![image](https://user-images.githubusercontent.com/83868114/190485188-5963c3bb-b709-496e-8ed2-c60d320eb13a.png)
